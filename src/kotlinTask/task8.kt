@@ -1,4 +1,4 @@
-package Kotlin_Task
+package kotlinTask
 
 var pizzaSlices = 1
 var pizzaSlices2 = 1

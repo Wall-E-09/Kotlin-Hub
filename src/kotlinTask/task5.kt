@@ -1,4 +1,4 @@
-package Kotlin_Task
+package kotlinTask
 
 fun main() {
     val number2word = mapOf(1 to "one", 2 to "two", 3 to "three")

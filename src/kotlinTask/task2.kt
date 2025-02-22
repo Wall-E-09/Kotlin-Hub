@@ -1,4 +1,4 @@
-package Kotlin_Task
+package kotlinTask
 
 fun main() {
     val a: Int = 1000

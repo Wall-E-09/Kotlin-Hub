@@ -1,4 +1,4 @@
-package Kotlin_Task
+package kotlinTask
 
 val readOnlyShape = listOf("triangle", "square", "circle")
 

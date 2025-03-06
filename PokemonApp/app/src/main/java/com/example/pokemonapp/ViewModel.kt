@@ -23,7 +23,7 @@ class PokemonViewModel : ViewModel() {
         viewModelScope.launch {
             try {
                 val response = apiService.getPokemonList()
-                val randomSize = Random.nextInt(8, 12)
+                val randomSize = Random.nextInt(9, 12)
                 val selectedPokemon = response.results.shuffled().take(randomSize)
 
                 val details = selectedPokemon.mapNotNull {

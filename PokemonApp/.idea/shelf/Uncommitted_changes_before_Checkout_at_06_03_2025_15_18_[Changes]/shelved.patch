@@ -1,0 +1,263 @@
+Index: ../KotlinStart/.idea/inspectionProfiles/Project_Default.xml
+===================================================================
+diff --git a/../KotlinStart/.idea/inspectionProfiles/Project_Default.xml b/../KotlinStart/.idea/inspectionProfiles/Project_Default.xml
+deleted file mode 100644
+--- a/../KotlinStart/.idea/inspectionProfiles/Project_Default.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="ReplaceUntilWithRangeUntil" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: .idea/migrations.xml
+===================================================================
+diff --git a/.idea/migrations.xml b/.idea/migrations.xml
+deleted file mode 100644
+--- a/.idea/migrations.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectMigrations">
+-    <option name="MigrateToGradleLocalJavaHome">
+-      <set>
+-        <option value="$PROJECT_DIR$" />
+-      </set>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../KotlinStart/.idea/.gitignore
+===================================================================
+diff --git a/../KotlinStart/.idea/.gitignore b/../KotlinStart/.idea/.gitignore
+deleted file mode 100644
+--- a/../KotlinStart/.idea/.gitignore	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/compiler.xml
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+deleted file mode 100644
+--- a/.idea/compiler.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="CompilerConfiguration">
+-    <bytecodeTargetLevel target="21" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../KotlinStart/.idea/libraries/KotlinJavaRuntime.xml
+===================================================================
+diff --git a/../KotlinStart/.idea/libraries/KotlinJavaRuntime.xml b/../KotlinStart/.idea/libraries/KotlinJavaRuntime.xml
+deleted file mode 100644
+--- a/../KotlinStart/.idea/libraries/KotlinJavaRuntime.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,17 +0,0 @@
+-<component name="libraryTable">
+-  <library name="KotlinJavaRuntime" type="repository">
+-    <properties maven-id="org.jetbrains.kotlin:kotlin-stdlib:2.1.10" />
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/kotlin-stdlib-2.1.10.jar!/" />
+-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/kotlin-stdlib-2.1.10-javadoc.jar!/" />
+-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/kotlin-stdlib-2.1.10-sources.jar!/" />
+-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/kotlinc.xml
+===================================================================
+diff --git a/.idea/kotlinc.xml b/.idea/kotlinc.xml
+deleted file mode 100644
+--- a/.idea/kotlinc.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="KotlinJpsPluginSettings">
+-    <option name="version" value="2.0.0" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../KotlinStart/.idea/vcs.xml
+===================================================================
+diff --git a/../KotlinStart/.idea/vcs.xml b/../KotlinStart/.idea/vcs.xml
+deleted file mode 100644
+--- a/../KotlinStart/.idea/vcs.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../KotlinStart/.idea/modules.xml
+===================================================================
+diff --git a/../KotlinStart/.idea/modules.xml b/../KotlinStart/.idea/modules.xml
+deleted file mode 100644
+--- a/../KotlinStart/.idea/modules.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Kotlin Hub.iml" filepath="$PROJECT_DIR$/Kotlin Hub.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../KotlinStart/.idea/kotlinc.xml
+===================================================================
+diff --git a/../KotlinStart/.idea/kotlinc.xml b/../KotlinStart/.idea/kotlinc.xml
+deleted file mode 100644
+--- a/../KotlinStart/.idea/kotlinc.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Kotlin2JvmCompilerArguments">
+-    <option name="jvmTarget" value="1.8" />
+-  </component>
+-  <component name="KotlinCommonCompilerArguments">
+-    <option name="apiVersion" value="2.1" />
+-    <option name="languageVersion" value="2.1" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../KotlinStart/.idea/misc.xml
+===================================================================
+diff --git a/../KotlinStart/.idea/misc.xml b/../KotlinStart/.idea/misc.xml
+deleted file mode 100644
+--- a/../KotlinStart/.idea/misc.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/runConfigurations.xml
+===================================================================
+diff --git a/.idea/runConfigurations.xml b/.idea/runConfigurations.xml
+deleted file mode 100644
+--- a/.idea/runConfigurations.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,17 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="RunConfigurationProducerService">
+-    <option name="ignoredProducers">
+-      <set>
+-        <option value="com.intellij.execution.junit.AbstractAllInDirectoryConfigurationProducer" />
+-        <option value="com.intellij.execution.junit.AllInPackageConfigurationProducer" />
+-        <option value="com.intellij.execution.junit.PatternConfigurationProducer" />
+-        <option value="com.intellij.execution.junit.TestInClassConfigurationProducer" />
+-        <option value="com.intellij.execution.junit.UniqueIdConfigurationProducer" />
+-        <option value="com.intellij.execution.junit.testDiscovery.JUnitTestDiscoveryConfigurationProducer" />
+-        <option value="org.jetbrains.kotlin.idea.junit.KotlinJUnitRunConfigurationProducer" />
+-        <option value="org.jetbrains.kotlin.idea.junit.KotlinPatternConfigurationProducer" />
+-      </set>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/build/classes" />
+-  </component>
+-  <component name="ProjectType">
+-    <option name="id" value="Android" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ /dev/null	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>*.iml\r\n.gradle\r\n/local.properties\r\n/.idea/caches\r\n/.idea/libraries\r\n/.idea/modules.xml\r\n/.idea/workspace.xml\r\n/.idea/navEditor.xml\r\n/.idea/assetWizardSettings.xml\r\n.DS_Store\r\n/build\r\n/captures\r\n.externalNativeBuild\r\n.cxx\r\nlocal.properties\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ b/.gitignore	(date 1741266993467)
+@@ -13,3 +13,4 @@
+ .externalNativeBuild
+ .cxx
+ local.properties
++
+Index: ../KotlinStart/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>### IntelliJ IDEA ###\r\nout/\r\n!**/src/main/**/out/\r\n!**/src/test/**/out/\r\n\r\n### Kotlin ###\r\n.kotlin\r\n\r\n### Eclipse ###\r\n.apt_generated\r\n.classpath\r\n.factorypath\r\n.project\r\n.settings\r\n.springBeans\r\n.sts4-cache\r\nbin/\r\n!**/src/main/**/bin/\r\n!**/src/test/**/bin/\r\n\r\n### NetBeans ###\r\n/nbproject/private/\r\n/nbbuild/\r\n/dist/\r\n/nbdist/\r\n/.nb-gradle/\r\n\r\n### VS Code ###\r\n.vscode/\r\n\r\n### Mac OS ###\r\n.DS_Store
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../KotlinStart/.gitignore b/../KotlinStart/.gitignore
+--- a/../KotlinStart/.gitignore	(revision 4918f9350e2abe07ec529b2f4a5b11a26a89696a)
++++ b/../KotlinStart/.gitignore	(date 1741266919464)
+@@ -29,4 +29,6 @@
+ .vscode/
+ 
+ ### Mac OS ###
+-.DS_Store
+\ No newline at end of file
++.DS_Store
++
++.idea
